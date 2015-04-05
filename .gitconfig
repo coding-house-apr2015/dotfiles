@@ -6,3 +6,5 @@
   br = branch -avv
   rt = remote -v
   lg = log --oneline --decorate --all --graph
+[core]
+  editor = "atom --wait"
